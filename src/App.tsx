@@ -137,23 +137,23 @@ export default function App() {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
-             <a
-  href="https://t.me/@nazar9698"
-  target="_blank"
-  rel="noopener noreferrer"
->
   <Button
     asChild
     size="lg"
     className="bg-[#8B5CF6] hover:bg-[#7c3aed] text-white glow-purple-strong text-lg px-8 py-4 h-auto transition-all duration-300 hover:scale-105"
   >
-    <span className="flex items-center">
+    <a
+      href="https://t.me/nazar9698"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="flex items-center"
+    >
       <Send size={20} className="mr-3" />
       Start Using Bot
       <ArrowRight size={20} className="ml-3" />
-    </span>
+    </a>
   </Button>
-</a>
+</div>
 
               <Button 
                 variant="outline" 
