@@ -125,9 +125,9 @@ export default function App() {
             </div>
             
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-8 tracking-tight">
-              Blockchain Made
+              Не просто вебсайти,
               <span className="block bg-gradient-to-r from-[#8B5CF6] via-[#A855F7] to-[#8B5CF6] bg-clip-text text-transparent text-glow-purple-strong animate-pulse-slow">
-                Simple & Accessible
+                а повноцінні системи продажів.
               </span>
             </h1>
             
