@@ -125,9 +125,9 @@ export default function App() {
             </div>
             
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-8 tracking-tight">
-              Не просто вебсайти
+              Blockchain Made
               <span className="block bg-gradient-to-r from-[#8B5CF6] via-[#A855F7] to-[#8B5CF6] bg-clip-text text-transparent text-glow-purple-strong animate-pulse-slow">
-                а повноцінні системи продажів.
+                Simple & Accessible
               </span>
             </h1>
             
@@ -137,8 +137,8 @@ export default function App() {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
-<a
-  href="https://t.me/nazar9698"
+             <a
+  href="https://t.me/@nazar9698"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -154,8 +154,6 @@ export default function App() {
     </span>
   </Button>
 </a>
-
-</div>
 
               <Button 
                 variant="outline" 
